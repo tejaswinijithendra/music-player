@@ -1,0 +1,45 @@
+header {
+   text-align: center;
+   margin-top: 100px;
+   margin-bottom: 50px;
+   color: rgb(95, 47, 2);
+
+    
+}
+#container {
+   text-align: center;
+   height: 200px;
+   width: 30%;
+   background-color: rgb(111, 191, 236);
+   border: 3px solid rgb(24, 1, 1);
+   border-radius: 20px;
+   margin: 0 auto;
+}
+#name {
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    color: rgb(8, 8, 8);
+}
+#prev {
+    background-color: rgb(6, 175, 20);
+    height: 30px;
+    width: 30px;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+#next {
+    background-color: rgb(6, 175, 20);
+    height: 30px;
+    width: 30px;
+    border-radius: 10px;
+}   
+#play {
+    background-color: rgb(197, 11, 11);
+    height: 30px;
+    width: 30px;
+    margin-right: 20px;
+    border-radius: 10px;
+}
